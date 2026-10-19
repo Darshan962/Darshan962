@@ -17,10 +17,6 @@ AI agents, tool use, and orchestration.
 - Studying AI agent integration and orchestration (LangGraph, MCP, FastAPI)
 - Working through my computer science coursework
 
-### Connect
-
-- Email: darshanbaniya@agripath.com.au
-
 ---
 
-*Open to collaboration on web and AI projects.*
+*Open to collaboration on web and AI projects — feel free to reach out here on GitHub.*
